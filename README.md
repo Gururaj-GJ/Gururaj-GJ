@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Gururaj-GJ/Gururaj-GJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about building innovative solutions and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🖥️ Interactive Portfolio Demo
+[Try my personal portfolio (hosted live on S3)](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/4c3516de7fd6e1fa5d329e67c9491239/c0be1303-e8d2-4153-ab3b-76b3773e8c2b/index.html)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+### Portfolio
+Explore my live portfolio template - [View Demo](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/4c3516de7fd6e1fa5d329e67c9491239/c0be1303-e8d2-4153-ab3b-76b3773e8c2b/index.html)
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
