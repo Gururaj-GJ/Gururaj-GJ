@@ -10,7 +10,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gururaj-gj-52a062b4)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gururaj-GJ)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gururaj.gj.guru@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://gururaj-gj.github.io/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/b6231437af4ea971f7084587a7a75dd7/4c9e6922-7634-49af-b513-ae7b8cb1c29c/index.html)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Gururaj-GJ&style=flat-square&color=blueviolet)
   
@@ -58,21 +58,15 @@ As a **Fraud & Risk Specialist with 6+ years of experience** across global e-com
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | Project | Description | Links |
 |---------|-------------|-------|
 | **💳 Payment Fraud Analytics Dashboard** | Interactive dashboard visualizing fraud trends, risk scores, and transaction patterns | [🔗 Live Demo](https://claude.ai/public/artifacts/f62fc129-b699-49e5-9b27-9531176bbb8c?fullscreen=true) |
 | **🏥 Cancer Survival Prediction Companion** | ML-powered tool predicting 5-year survival rates for colorectal cancer patients | [📂 GitHub](https://github.com/Gururaj-GJ/Cancer-Survival-Prediction-Companion) |
 | **🎨 Portfolio Website** | Modern, responsive portfolio showcasing projects and professional journey | [🌍 Portfolio](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/b6231437af4ea971f7084587a7a75dd7/4c9e6922-7634-49af-b513-ae7b8cb1c29c/index.html) |
 
-</div>
-
 ---
 
 ## 🛠️ Technical Skills
-
-<div align="center">
 
 ### **Programming & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -99,8 +93,6 @@ As a **Fraud & Risk Specialist with 6+ years of experience** across global e-com
 ![Risk Analysis](https://img.shields.io/badge/Risk_Analysis-FF6347?style=for-the-badge&logo=security&logoColor=white)
 ![Payment Systems](https://img.shields.io/badge/Payment_Systems-4169E1?style=for-the-badge&logo=stripe&logoColor=white)
 
-</div>
-
 ---
 
 ## 🎯 Career Objective
@@ -111,46 +103,36 @@ As a **Fraud & Risk Specialist with 6+ years of experience** across global e-com
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gururaj-GJ&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gururaj-GJ&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gururaj-GJ&theme=radical&hide_border=true)
-  
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gururaj-GJ&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gururaj-GJ&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gururaj-GJ&theme=radical&hide_border=true)
 
 ---
 
 ## 🤝 Let's Connect!
 
-<div align="center">
-  
-  ### 💬 I'm always open to discussing:
-  
-  🔹 **Fraud Prevention Strategies** | 🔹 **AI/ML Applications in Risk Management**
-  
-  🔹 **Career Opportunities** | 🔹 **Collaboration on Projects** | 🔹 **Knowledge Sharing**
-  
-  ---
-  
-  ### 📫 Reach Out:
-  
-  📧 **Email:** gururaj.gj.guru@gmail.com
-  
-  💼 **LinkedIn:** [Gururaj G J](https://www.linkedin.com/in/gururaj-gj-52a062b4)
-  
-  🌐 **Portfolio:** [gururaj-gj.github.io](https://gururaj-gj.github.io/)
-  
-  📱 **Phone:** +91 9481163304
-  
-  ---
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-  
-  **⭐ If you find my work interesting, feel free to star my repositories! ⭐**
-  
-  ![Thanks](https://img.shields.io/badge/Thanks_for_visiting!-😊-brightgreen?style=for-the-badge)
-  
-</div>
+### 💬 I'm always open to discussing:
+
+🔹 **Fraud Prevention Strategies** | 🔹 **AI/ML Applications in Risk Management**
+
+🔹 **Career Opportunities** | 🔹 **Collaboration on Projects** | 🔹 **Knowledge Sharing**
+
+### 📫 Reach Out:
+
+📧 **Email:** [gururaj.gj.guru@gmail.com](mailto:gururaj.gj.guru@gmail.com)
+
+💼 **LinkedIn:** [Gururaj G J](https://www.linkedin.com/in/gururaj-gj-52a062b4)
+
+🌐 **Portfolio:** [ppl-ai-code-interpreter-files.s3.amazonaws.com](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/b6231437af4ea971f7084587a7a75dd7/4c9e6922-7634-49af-b513-ae7b8cb1c29c/index.html)
+
+📱 **Phone:** +91 8971599238
+
+---
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+**⭐ If you find my work interesting, feel free to star my repositories! ⭐**
+
+![Thanks](https://img.shields.io/badge/Thanks_for_visiting!-%F0%9F%98%8A-brightgreen?style=for-the-badge)
