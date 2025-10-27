@@ -189,7 +189,7 @@ Collaborate with global law enforcement & cross-functional teams
 
 💼 **LinkedIn:** [Gururaj G J](https://www.linkedin.com/in/gururaj-gj-52a062b4)
 
-🌐 **Portfolio:** [View My Work](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/ebde67bff69ad28ccc66a675b94c43b4/c063324f-7b77-4db3-93e2-5b84ec5cd21d/index.html)
+🌐 **Portfolio:** [View My Work](https://gururaj-gj.github.io/profile-hub/)
 
 📱 **Phone:** +91 8971599238
 
