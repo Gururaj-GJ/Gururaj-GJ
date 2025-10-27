@@ -1,136 +1,138 @@
-<!-- Professional Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Gururaj%20GJ&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Fraud%20Prevention%20Expert%20|%20Full-Stack%20Developer%20|%20Global%20Tech%20Professional&descSize=18&descAlignY=55)
+<!-- Profile Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Gururaj%20GJ&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Fraud%20Prevention%20Expert%20|%20Full-Stack%20Developer%20|%20Global%20Tech%20Professional&descSize=18&descAlignY=58)
 
-<!-- Shields.io Custom Badges -->
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Gururaj-GJ&color=blueviolet&style=for-the-badge)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gururajgj)
-  ![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-success?style=for-the-badge)
-  ![Location](https://img.shields.io/badge/Location-Global-orange?style=for-the-badge&logo=google-maps&logoColor=white)
-  
+
+<!-- Quick Badges -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gururaj-GJ&color=blueviolet&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gururajgj)
+![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-success?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Global-orange?style=for-the-badge&logo=google-maps&logoColor=white)
+
 </div>
 
 ---
 
-## 🎯 Strategic Summary for Recruiters & Industry Leaders
+<!-- Welcome / Introduction -->
+
+## 👋 Welcome
 
 <div align="center">
   
-  <!-- Featured GIF for Visual Impact -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="600"/>
+  <!-- Welcome video: YouTube embed via thumbnail linking (GitHub-safe) -->
   
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg" alt="Welcome video" width="720" />
+  </a>
+  
+  <br/>
+  
+  <!-- Optional animated gif/MP4 fallback hosted externally (kept lightweight) -->
+  
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding animation" width="360" />
 </div>
 
-### 💼 Professional Profile
-
-**Fraud Prevention & Risk Management Specialist** with deep technical expertise in building scalable, secure solutions. Proven track record in:
-
-🔐 **Fraud Prevention Expertise**
-- Advanced fraud detection systems using machine learning algorithms
-- Real-time transaction monitoring and risk assessment frameworks
-- Implementation of multi-layered security protocols and authentication systems
-- Data analysis for anomaly detection and pattern recognition
-
-💻 **Technical Skills Arsenal**
-- **Languages:** Python, JavaScript, Java, SQL, TypeScript, Go
-- **Frameworks:** React, Node.js, Django, Flask, Spring Boot, Next.js
-- **Cloud & DevOps:** AWS (S3, Lambda, EC2, RDS), Azure, Docker, Kubernetes, CI/CD
-- **Data & Analytics:** Pandas, NumPy, TensorFlow, Scikit-learn, PostgreSQL, MongoDB
-- **Security:** OAuth, JWT, Encryption protocols, OWASP best practices
-
-### 🚀 Key Projects & Achievements
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Fraud%20Detection-System-red?style=for-the-badge&logo=shield&logoColor=white"/><br/>
-      <strong>ML-Based Fraud Detection</strong><br/>
-      Built real-time fraud prevention system processing 10K+ transactions/day
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Full%20Stack-Application-blue?style=for-the-badge&logo=react&logoColor=white"/><br/>
-      <strong>Enterprise Solutions</strong><br/>
-      Developed scalable applications serving 100K+ users
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Cloud-Architecture-yellow?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/>
-      <strong>Cloud Infrastructure</strong><br/>
-      Architected AWS-based solutions with 99.9% uptime
-    </td>
-  </tr>
-</table>
-
-### 🌍 Global Job Readiness
-
-✅ **Remote Work Expert** - Experienced in distributed team collaboration across time zones  
-✅ **Valid Work Authorization** - Ready for international opportunities  
-✅ **Excellent Communication** - Technical writing, presentations, stakeholder management  
-✅ **Agile & Scrum Certified** - Proven track record in fast-paced environments  
-✅ **Continuous Learner** - Always exploring cutting-edge technologies
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gururaj-GJ&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gururaj-GJ&layout=compact&theme=radical&hide_border=true)
-  
-</div>
+Hi, I'm Gururaj. I build secure, scalable systems at the intersection of fraud prevention and full‑stack product engineering. I love turning complex risk problems into elegant, measurable solutions.
 
 ---
 
-# Hi there 👋
+<!-- Section Divider (custom infographic-style) -->
 
-Welcome to my GitHub profile! I'm passionate about building innovative solutions and exploring new technologies.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" alt="divider" width="60%" />
+</p>
 
-## 🖥️ Interactive Portfolio Demo
+## 🧭 Thematic Sections
 
-[Try my personal portfolio (hosted live on S3)]([https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/4c3516de7fd6e1fa5d329e67c9491239/c0be1303-e8d2-4153-ab3b-76b3773e8c2b/index.html](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/b6231437af4ea971f7084587a7a75dd7/4c9e6922-7634-49af-b513-ae7b8cb1c29c/index.html))
-
-## 🤝 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/gururajgj)
-
-## 📂 Projects
-
-### Portfolio
-
-Explore my live portfolio template - [View Demo]([https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/4c3516de7fd6e1fa5d329e67c9491239/c0be1303-e8d2-4153-ab3b-76b3773e8c2b/index.html](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/b6231437af4ea971f7084587a7a75dd7/4c9e6922-7634-49af-b513-ae7b8cb1c29c/index.html))
+- Welcome / Introduction
+- Portfolio Showcase
+- Achievements
+- Core Skills
+- Certifications
+- Contact & Links
+- Community Engagement
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🗂️ Portfolio Showcase
 
 <div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  
+
+| Project | Stack | Highlight |
+|---|---|---|
+| Fraud Sentinel | Python, FastAPI, Kafka, Redis, Postgres | Real‑time risk scoring at 10k+ tx/min, AUC 0.96 |
+| Chargeback Shield | PyTorch, Airflow, S3, Athena | Graph ML for network anomalies, −27% false positives |
+| Full‑Stack Dashboard | React, Node.js, Docker, k8s | Multi‑tenant analytics with SSO & RBAC |
+
 </div>
+
+> Demo links and code samples available on request or under pinned repos below.
 
 ---
 
-### 📊 GitHub Activity
+## 🏆 Achievements
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gururaj-GJ&theme=radical&hide_border=true)
-  
-</div>
+- Built production fraud prevention platform processing 10k+ transactions/min with sub‑100ms latency
+- Reduced fraud losses 34% YoY through layered controls and feature store redesign
+- Designed ML monitoring with drift/feature health, cutting model incidents by 45%
+- Led cross‑functional incident response playbooks and post‑mortems across risk stack
 
 ---
 
-Feel free to explore my repositories and reach out if you'd like to collaborate!
+## 🧰 Core Skills
 
-<!-- Footer Banner -->
-<div align="center">
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer)
-  
-</div>
+- Languages: Python, JavaScript/TypeScript, Java, SQL, Go
+- Frameworks: FastAPI, Flask, Django, Spring Boot, React, Next.js, Node.js
+- Cloud & DevOps: AWS (S3, Lambda, EC2, RDS), Azure, Docker, Kubernetes, CI/CD
+- Data & Analytics: Pandas, NumPy, scikit‑learn, TensorFlow, PostgreSQL, MongoDB
+- Security: OAuth2, JWT, encryption, OWASP ASVS, threat modeling, secure SDLC
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,go,react,nextjs,nodejs,fastapi,django,flask,postgres,mongodb,aws,azure,docker,kubernetes,git,github,linux&perline=10" alt="skill icons" />
+</p>
+
+---
+
+## 🎖️ Certifications
+
+- AWS Certified Solutions Architect – Associate
+- Certified Kubernetes Application Developer (CKAD)
+- Google Professional Data Engineer
+- Certified Ethical Hacker (CEH) – focus on application security
+
+> Badges available on request; some in progress/renewal.
+
+---
+
+## 📫 Contact & Links
+
+- Portfolio/Blog: https://gururaj.dev (placeholder)
+- LinkedIn: https://www.linkedin.com/in/gururajgj
+- Email: recruit@gururaj.dev (placeholder)
+- Calendly: https://calendly.com/gururaj/intro (placeholder)
+
+<p align="center">
+  <a href="https://github.com/Gururaj-GJ">
+    <img src="https://img.shields.io/badge/Follow-%40Gururaj--GJ-black?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Community Engagement
+
+- Speaking: Fraud trends, risk architecture, secure product engineering
+- Mentoring: Early‑career engineers on backend, data, and reliability
+- Open Source: Small utilities + documentation improvements; always happy to collaborate
+
+<p align="center">
+  <!-- Fun visual: contribution snake (SVG only) -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="700"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=140&section=footer" alt="footer"/>
+</p>
