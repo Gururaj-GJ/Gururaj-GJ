@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gururaj-gj-52a062b4)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gururaj-GJ)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gururaj.gj.guru@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([Portfolio](https://gururaj-gj.github.io/profile-hub/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://gururaj-gj.github.io/profile-hub/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gururaj-GJ&style=flat-square&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/Gururaj-GJ?style=flat-square&color=blue)
