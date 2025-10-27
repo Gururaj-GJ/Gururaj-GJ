@@ -4,6 +4,7 @@
   # 👋 Gururaj G J
   
   ### 🚨 Fraud & Risk Management Specialist | AI & ML Innovator | 6+ Years Fighting Payment Fraud
+  
   ### Built Cancer Prediction Tool & Payment Analytics Dashboard | Open to Global Opportunities 🌍
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gururaj-gj-52a062b4)
@@ -28,13 +29,9 @@ As a **Fraud & Risk Specialist with 6+ years of experience** across global e-com
 ## 💼 What I Do
 
 🔍 **Detect and investigate complex fraud schemes** across payment ecosystems
-
 🤖 **Design AI-powered automation solutions** that cut investigation time by 80%+
-
 📊 **Build predictive analytics tools and dashboards** for real-time fraud detection
-
 🧠 **Develop ML models** for healthcare and fraud prevention applications
-
 🌐 **Collaborate with global law enforcement** & cross-functional teams to combat fraud
 
 ---
@@ -57,43 +54,41 @@ As a **Fraud & Risk Specialist with 6+ years of experience** across global e-com
 - ✅ Joint operations with police, apprehended fraudsters
 - ✅ Pioneered fraud prevention strategies in India's e-commerce sector
 
-### **Recognition** 🌟
-- ✅ Acknowledged by **Director Niamh Lewis** for exceptional contributions
-
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| 💳 **Payment Fraud Analytics Dashboard** | AI-powered fraud detection dashboard with real-time analytics | Claude AI, Python, Streamlit | [🔗 Live Demo](https://github.com/Gururaj-GJ) |
-| 🏥 **Cancer Survival Prediction Companion** | ML model predicting cancer survival rates with 85%+ accuracy | Python, Scikit-learn, TensorFlow | [📂 GitHub](https://github.com/Gururaj-GJ) |
-| 🌐 **Portfolio Website** | Professional portfolio showcasing projects and achievements | HTML, CSS, JavaScript | [🌍 Portfolio](https://gururaj-gj.github.io/) |
-| 📝 **Blog: How Payment Fraud Really Works** | In-depth analysis of payment fraud mechanics | Medium, Technical Writing | [📖 Read](https://github.com/Gururaj-GJ) |
+| Project | Description | Links |
+|---------|-------------|-------|
+| **💳 Payment Fraud Analytics Dashboard** | Interactive dashboard visualizing fraud trends, risk scores, and transaction patterns | [🔗 Live Demo](https://claude.ai/public/artifacts/f62fc129-b699-49e5-9b27-9531176bbb8c?fullscreen=true) |
+| **🏥 Cancer Survival Prediction Companion** | ML-powered tool predicting 5-year survival rates for colorectal cancer patients | [📂 GitHub](https://github.com/Gururaj-GJ/Cancer-Survival-Prediction-Companion) |
+| **🎨 Portfolio Website** | Modern, responsive portfolio showcasing projects and professional journey | [🌍 Portfolio](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/b6231437af4ea971f7084587a7a75dd7/4c9e6922-7634-49af-b513-ae7b8cb1c29c/index.html) |
 
 </div>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technical Skills
 
-### **Programming & Data**
+<div align="center">
+
+### **Programming & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### **AI & Machine Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### **Tools & Platforms**
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+### **Data Visualization & Tools**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -103,6 +98,8 @@ As a **Fraud & Risk Specialist with 6+ years of experience** across global e-com
 ![Fraud Detection](https://img.shields.io/badge/Fraud_Detection-DC143C?style=for-the-badge&logo=shield&logoColor=white)
 ![Risk Analysis](https://img.shields.io/badge/Risk_Analysis-FF6347?style=for-the-badge&logo=security&logoColor=white)
 ![Payment Systems](https://img.shields.io/badge/Payment_Systems-4169E1?style=for-the-badge&logo=stripe&logoColor=white)
+
+</div>
 
 ---
 
