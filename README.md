@@ -1,138 +1,93 @@
-<!-- Profile Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Gururaj%20GJ&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Fraud%20Prevention%20Expert%20|%20Full-Stack%20Developer%20|%20Global%20Tech%20Professional&descSize=18&descAlignY=58)
-
-<div align="center">
-
-<!-- Quick Badges -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=Gururaj-GJ&color=blueviolet&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gururajgj)
-![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-success?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Global-orange?style=for-the-badge&logo=google-maps&logoColor=white)
-
-</div>
-
----
-
-<!-- Welcome / Introduction -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/107859449?v=4" width="120" alt="Profile Photo" /><br>
+  <b>Gururaj G J</b>
+  <br>
+  <a href="https://www.linkedin.com/in/gururaj-gj-52a062b4"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/Gururaj-GJ"><img src="https://img.shields.io/badge/GitHub-333?logo=github" alt="GitHub"></a>
+  <a href="mailto:gururaj.gj.guru@gmail.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail" alt="Email"></a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Gururaj-GJ&style=flat-square&color=blueviolet" alt="Profile Views"/>
+</p>
 
 ## 👋 Welcome
 
-<div align="center">
-  
-  <!-- Welcome video: YouTube embed via thumbnail linking (GitHub-safe) -->
-  
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg" alt="Welcome video" width="720" />
-  </a>
-  
-  <br/>
-  
-  <!-- Optional animated gif/MP4 fallback hosted externally (kept lightweight) -->
-  
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding animation" width="360" />
-</div>
+I'm Gururaj – an engineer and fraud risk specialist passionate about building secure, scalable systems and using automation to fight financial crime. I turn complex risk problems into elegant, measurable solutions recognized by global leadership teams.
 
-Hi, I'm Gururaj. I build secure, scalable systems at the intersection of fraud prevention and full‑stack product engineering. I love turning complex risk problems into elegant, measurable solutions.
+## 🏆 Professional Summary
 
----
-
-<!-- Section Divider (custom infographic-style) -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" alt="divider" width="60%" />
-</p>
-
-## 🧭 Thematic Sections
-
-- Welcome / Introduction
-- Portfolio Showcase
-- Achievements
-- Core Skills
-- Certifications
-- Contact & Links
-- Community Engagement
-
----
-
-## 🗂️ Portfolio Showcase
-
-<div align="center">
-
-| Project | Stack | Highlight |
-|---|---|---|
-| Fraud Sentinel | Python, FastAPI, Kafka, Redis, Postgres | Real‑time risk scoring at 10k+ tx/min, AUC 0.96 |
-| Chargeback Shield | PyTorch, Airflow, S3, Athena | Graph ML for network anomalies, −27% false positives |
-| Full‑Stack Dashboard | React, Node.js, Docker, k8s | Multi‑tenant analytics with SSO & RBAC |
-
-</div>
-
-> Demo links and code samples available on request or under pinned repos below.
-
----
-
-## 🏆 Achievements
-
-- Built production fraud prevention platform processing 10k+ transactions/min with sub‑100ms latency
-- Reduced fraud losses 34% YoY through layered controls and feature store redesign
-- Designed ML monitoring with drift/feature health, cutting model incidents by 45%
-- Led cross‑functional incident response playbooks and post‑mortems across risk stack
-
----
+Results-driven Fraud & Risk Specialist with 6+ years of experience in fraud detection, compliance, and risk investigations across e-commerce, fintech, payments, and cloud services. Demonstrated expertise in AML, KYC, Transaction Monitoring, Merchant Risk Management. Proven track record developing automation solutions, AI-powered investigation tools, and knowledge management systems that boost team productivity and prevent major financial losses. Seeking challenging new opportunities in fraud, compliance, and risk management—India & global.
 
 ## 🧰 Core Skills
 
-- Languages: Python, JavaScript/TypeScript, Java, SQL, Go
-- Frameworks: FastAPI, Flask, Django, Spring Boot, React, Next.js, Node.js
-- Cloud & DevOps: AWS (S3, Lambda, EC2, RDS), Azure, Docker, Kubernetes, CI/CD
-- Data & Analytics: Pandas, NumPy, scikit‑learn, TensorFlow, PostgreSQL, MongoDB
-- Security: OAuth2, JWT, encryption, OWASP ASVS, threat modeling, secure SDLC
+**Fraud & Risk Management**: Fraud Detection, Investigation, Transaction Monitoring, Merchant Risk Analysis, Payment Fraud Prevention, Chargeback Management
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,go,react,nextjs,nodejs,fastapi,django,flask,postgres,mongodb,aws,azure,docker,kubernetes,git,github,linux&perline=10" alt="skill icons" />
+**Compliance & Regulatory**: AML/KYC Compliance, PCI DSS, Regulatory Compliance, Financial Crime Risk Management
+
+**Technical**: Advanced SQL, Microsoft Excel, SharePoint Admin, Google Data Studio, Process Automation (Apps Script/Macros), AI Prompt Engineering
+
+**Business**: Cross-Team Collaboration, Process Improvement, Training & Knowledge Transfer
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,sql,excel,aws,gcp" height="32">
+  <img src="https://img.shields.io/badge/AML-grey?logo=powerbi&style=flat">
+  <img src="https://img.shields.io/badge/Fraud%20Prevention-blue?style=flat">
 </p>
 
----
+## 💼 Experience Highlights
 
-## 🎖️ Certifications
+| Company/Role | Achievements |
+|--------------|-------------|
+| **Fintellix (G2 Risk Solutions)** | Built SharePoint fraud repo, developed AI prompts, standardized investigations, recognized by global director |
+| **Amazon AWS Risk** | Payment abuse investigations, deep-dive SQL/Excel, prevented revenue leakage, promoted for excellence |
+| **Accenture / Google** | Uncovered gift card fraud, created SOP hub, built team dashboards, automated workflows |
+| **Flipkart / TeamLease** | Prevented losses, managed escalations with banks/cybercrime |
 
-- AWS Certified Solutions Architect – Associate
-- Certified Kubernetes Application Developer (CKAD)
-- Google Professional Data Engineer
-- Certified Ethical Hacker (CEH) – focus on application security
+## 🥇 Achievements & Projects
 
-> Badges available on request; some in progress/renewal.
+- **SharePoint Global Repository**: Saved 15 analyst hours/week, eliminated duplicate fraud investigations
+- **AI Investigation Accelerator**: Reduced site investigation cycle from weeks to minutes
+- **Fraud Knowledge Hub**: SOP repository, dashboards for 100+ analysts
+- **Leadership Recognition**: Awarded by Director Niamh Lewis for automation, innovation
 
----
+## 🚀 Real-World Projects
+
+**Cancer Survival Prediction Companion**  
+ML tool for cancer survival and care planning  
+[GitHub Repo](https://github.com/Gururaj-GJ/cancer-survival-prediction)
+
+**Payment Fraud Analytics Dashboard (Claude AI)**  
+Interactive fraud analytics (AI-powered)  
+[Live Demo](https://claude.site/artifacts/payment-fraud-dashboard)
+
+## 📚 Publications & Blog
+
+**How Payment Fraud Really Works**  
+Comprehensive guide to payment fraud trends and controls (Published Oct 2025)
+
+## 🎓 Education
+
+**MBA (Marketing & Human Resources)**  
+Presidency College, Bangalore University (2015–2017)
+
+## 🗺️ Career Objective
+
+**Roles**: Fraud Specialist, Compliance Analyst, AML/KYC, Risk/Transaction Monitoring, Merchant Risk/Financial Crime
+
+**Setup**: On-site / Hybrid / Remote
+
+**Locations**: Bangalore, remote India, US, UK, Ireland, Singapore, UAE, Canada, Australia, Europe
+
+**Availability**: Immediate (Full-time/Contract)
 
 ## 📫 Contact & Links
 
-- Portfolio/Blog: https://gururaj.dev (placeholder)
-- LinkedIn: https://www.linkedin.com/in/gururajgj
-- Email: recruit@gururaj.dev (placeholder)
-- Calendly: https://calendly.com/gururaj/intro (placeholder)
+- **Email**: gururaj.gj.guru@gmail.com
+- **LinkedIn**: [gururaj-gj-52a062b4](https://www.linkedin.com/in/gururaj-gj-52a062b4)
+- **GitHub**: [Gururaj-GJ](https://github.com/Gururaj-GJ)
+- **Portfolio/Blog**: [gururaj.dev](https://gururaj.dev)
 
 <p align="center">
-  <a href="https://github.com/Gururaj-GJ">
-    <img src="https://img.shields.io/badge/Follow-%40Gururaj--GJ-black?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="400">
 </p>
 
 ---
-
-## 🤝 Community Engagement
-
-- Speaking: Fraud trends, risk architecture, secure product engineering
-- Mentoring: Early‑career engineers on backend, data, and reliability
-- Open Source: Small utilities + documentation improvements; always happy to collaborate
-
-<p align="center">
-  <!-- Fun visual: contribution snake (SVG only) -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="700"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=140&section=footer" alt="footer"/>
-</p>
