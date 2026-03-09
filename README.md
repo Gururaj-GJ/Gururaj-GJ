@@ -3,9 +3,9 @@
   
 # 👋 Gururaj G J
 
-### 🚨 Fraud & Risk Management Specialist | AI & ML Innovator | 6+ Years Fighting Payment Fraud
+### 👋 Hi, I'm Gururaj G J
 
-### Built Cancer Prediction Tool & Payment Analytics Dashboard | Open to Global Opportunities 🌍
+### Fraud Intelligence Specialist & Risk Systems Researcher based in Bengaluru🌍
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gururaj-gj-52a062b4)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gururaj-GJ)
@@ -22,9 +22,9 @@
 
 ## 🎯 About Me
 
-**Protecting digital ecosystems. Building AI solutions. One investigation at a time.**
+**Fraud Intelligence Specialist. Risk Systems Researcher. Founder – Zarelva.**
 
-As a **Fraud & Risk Specialist with 6+ years of experience** across global e-commerce, fintech, payments, and cloud services, I've evolved from fraud detective to AI innovator—combining deep domain expertise with cutting-edge machine learning to solve complex problems.
+I work on fraud detection systems, digital investigations, and AI-assisted fraud analysis across payment ecosystems and online platforms. With **6+ years** across Amazon, Google, Flipkart, and G2 Risk Solutions, I've investigated fraud networks, automated investigation workflows, and built systems that correlate activity across accounts, devices, and behavioral patterns. Founder of **Zarelva** – a consulting initiative focused on fraud intelligence and risk architecture.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Experience-6%2B%20Years-brightgreen?style=for-the-badge" alt="Experience"/>
