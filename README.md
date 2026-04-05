@@ -76,16 +76,16 @@ Collaborate with global law enforcement & cross-functional teams
 > - ✅ Developed AI investigation accelerator reducing case resolution time by **80%**
 > - ✅ Automated fraud detection workflows improving accuracy by **65%**
 
-### **Razorpay** 💳
+### **Amazon (AWS)** 🚀
 
-> - 🏆 Processed **₹15+ crore disputed transactions** with 95% accuracy
-> - 🚀 Built Python automation tools reducing manual work by **70%**
-> - 📈 Improved chargeback win rate from **45% to 78%**
+> - 🔍 Investigated **payment abuse, identity fraud** and high-value usage anomalies using SQL and proprietary tools
+> - 🛡️ Prevented revenue leakage through deep-dive investigations into **suspicious high-value AWS usage**
+> - 🤖 Automated fraud detection workflows using **advanced Excel, SQL** and internal fraud tooling
 
-### **PayU India** 🌟
+### **Flipkart** 🛒
 
-> - 🔒 Prevented **₹2+ crore** in fraudulent transactions
-> - 🏅 Achieved **Best Performer Award** for fraud detection excellence
+> - 🚫 Monitored multi-rail payments (cards, UPI, net banking) cancelling **fraudulent orders pre-delivery**
+> - 🤝 Partnered with **law enforcement & last-mile delivery** teams for sting operations apprehending active fraudsters
 > - 🤝 Led cross-team initiatives improving merchant onboarding by **40%**
 
 ---
